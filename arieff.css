@@ -1,0 +1,39 @@
+body {
+    background-image: url(image.png);
+    background-size: 2000px;
+    text-align: center;
+  }
+  
+  .ucapan {
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 800px;
+  }
+  
+  .judul {
+    font-size: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -100px;
+  }
+  
+  .atas {
+    text-align: center;
+    color: antiquewhite
+  }
+  
+  button {
+    background: #86633f;
+    font-family: 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 40px;
+  }
+  
+  .tombol {
+    text-align: center;
+    margin-top: -150px;
+    margin-bottom: 40px;
+  }
+  
